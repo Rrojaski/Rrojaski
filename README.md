@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi I am Roman Rojas 👋
+You can checkout my portfolio here: https://www.romanrojas.me/
 
-<!--
-**Rrojaski/Rrojaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧐 More About Me:
+🔭   I currently work at Suddath Relocation Systems
+👯   I’m looking to collaborate on open source projects
+🤔   I’m looking for help with anything I might be missing in the frontend space.
+💬   Ask me about all things frontend
+📫   How to reach me: rrojaski@gmail.com
+Languages:
+JavaScripthtml5css3
 
-Here are some ideas to get you started:
+Frameworks:
+firebaseReactVueJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Super powers:
+TypescirptSASSReact
+
+Tools:
+ReactfirebaseNode.jsgit
