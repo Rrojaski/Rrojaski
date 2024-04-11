@@ -4,7 +4,7 @@ Welcome to my GitHub profile. You can check out my portfolio [here](https://www.
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I run a software consulting company called [Web Development Services](https://wdvservices.com/).
+<> - 🔭 &nbsp; I run a software consulting company called [Web Development Services](https://wdvservices.com/).
 - 👯 &nbsp; I’m looking to collaborate on open source projects
 - 🤔 &nbsp; I’m looking for help with anything I might be missing in the frontend space.
 - 💬 &nbsp; Ask me about all things frontend
