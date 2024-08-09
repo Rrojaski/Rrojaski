@@ -4,7 +4,7 @@ Welcome to my GitHub profile. You can check out my portfolio [here](https://www.
 
 ### 🏆 Recent Open-Source Contribution:
 
-- 🚀 &nbsp; I recently contributed to the open-source project [Anything LLM](https://github.com/MrCausy/AnythingLLM), where my pull request was successfully merged into the master branch. You can check out the [PR here](https://github.com/Mintplex-Labs/anything-llm/pull/1771). It was a great experience that strengthened my skills in React, Angular, Node, Wordpress and the latest frontend technologies.
+- 🚀 &nbsp; I recently contributed to the open-source project [Anything LLM](https://github.com/MrCausy/AnythingLLM) by adding a speech prompt integration feature. This enhancement allows users to verbally prompt the chat, significantly optimizing workflow by reducing the need to switch focus and type queries. You can check out the [PR here](https://github.com/Mintplex-Labs/anything-llm/pull/1771). This experience strengthened my skills in React, Angular, Node, WordPress, and the latest frontend technologies.
 
 ### 🧐 More About Me:
 
