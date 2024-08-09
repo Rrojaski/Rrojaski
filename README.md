@@ -2,13 +2,18 @@
 
 Welcome to my GitHub profile. You can check out my portfolio [here](https://www.romanrojas.me/).
 
+### 🏆 Recent Open-Source Contribution:
+
+- 🚀 &nbsp; I recently contributed to the open-source project [Anything LLM](https://github.com/MrCausy/AnythingLLM), where my pull request was successfully merged into the master branch. You can check out the [PR here](https://github.com/Mintplex-Labs/anything-llm/pull/1771). It was a great experience that strengthened my skills in [mention specific skills or areas, e.g., TypeScript, API development].
+
 ### 🧐 More About Me:
 
-<!--- - 🔭 &nbsp; I run a software consulting company called [Web Development Services](https://wdvservices.com/). --->
-- 👯 &nbsp; I’m looking to collaborate on open source projects
-- 🤔 &nbsp; I’m looking for help with anything I might be missing in the frontend space.
-- 💬 &nbsp; Ask me about all things frontend
+- 👯 &nbsp; I’m actively looking to collaborate on more open-source projects, especially in the frontend space.
+- 🤔 &nbsp; I’m continuously learning and eager to expand my knowledge in all things frontend. If you have any tips or resources, feel free to share!
+- 💬 &nbsp; Ask me about JavaScript, React, or any frontend technologies.
 - 📫 &nbsp; How to reach me: rrojaski@gmail.com
+
+### 🛠️ Languages & Technologies:
 
 ### Languages:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
@@ -32,4 +37,3 @@ Welcome to my GitHub profile. You can check out my portfolio [here](https://www.
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <br>
-
