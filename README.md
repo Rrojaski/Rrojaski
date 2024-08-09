@@ -4,7 +4,7 @@ Welcome to my GitHub profile. You can check out my portfolio [here](https://www.
 
 ### 🏆 Recent Open-Source Contribution:
 
-- 🚀 &nbsp; I recently contributed to the open-source project [Anything LLM](https://github.com/MrCausy/AnythingLLM), where my pull request was successfully merged into the master branch. You can check out the [PR here](https://github.com/Mintplex-Labs/anything-llm/pull/1771). It was a great experience that strengthened my skills in [mention specific skills or areas, e.g., TypeScript, API development].
+- 🚀 &nbsp; I recently contributed to the open-source project [Anything LLM](https://github.com/MrCausy/AnythingLLM), where my pull request was successfully merged into the master branch. You can check out the [PR here](https://github.com/Mintplex-Labs/anything-llm/pull/1771). It was a great experience that strengthened my skills in React, Angular, Node, Wordpress and latest frontend technologies.
 
 ### 🧐 More About Me:
 
