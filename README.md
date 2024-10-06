@@ -5,8 +5,8 @@ Welcome to my GitHub profile. You can check out my portfolio [here](https://www.
 ### 🏆 Recent Open-Source Contribution:
 
 - 🚀 &nbsp; I recently contributed to the open-source project [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) by adding a speech prompt integration feature. This enhancement allows users to verbally prompt the chat, significantly optimizing workflow by reducing the need to switch focus and type queries. You can check out the [PR here](https://github.com/Mintplex-Labs/anything-llm/pull/1771). This experience strengthened my skills in React, Node, and the latest frontend technologies.
-<div align="center" style="max-width: 100px; margin: 0 auto;">
-<img src="https://github.com/Mintplex-Labs/anything-llm/assets/16845892/cfc5f47c-bd91-4067-986c-f3f49621a859" alt="Chatting" width="400" />
+<div align="start">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Mintplex-Labs/anything-llm/assets/16845892/cfc5f47c-bd91-4067-986c-f3f49621a859" alt="Chatting" width="200" />
 </div>
 
 
