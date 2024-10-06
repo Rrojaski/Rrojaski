@@ -19,6 +19,7 @@ Welcome to my GitHub profile. You can check out my portfolio [here](https://www.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="html5" height="42px"  src="https://github.com/daiky00/daiky00/assets/15005162/2f3185d4-bc17-4b2d-b868-6e80d97932ca" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="css3" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" /> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_server" target="_blank"> <img align="left" alt="C#" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" /> 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank"> <img align="left" alt="Python" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> 
 </a>
 <br>
