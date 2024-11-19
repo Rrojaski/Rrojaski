@@ -1,6 +1,7 @@
 ### Hi there, I'm Roman Rojas! 👋
 
-Welcome to my GitHub profile. You can check out my portfolio [here](https://www.romanrojas.me/).
+Welcome to my GitHub profile. 
+# You can check out my portfolio [here](https://www.romanrojas.me/).
 
 ### 🏆 Recent Open-Source Contribution:
 
